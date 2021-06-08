@@ -1,0 +1,7 @@
+ChromeDriver=./Drivers/chromedriver.exe
+FirefoxDriver=./Drivers/geckodriver.exe
+IEDriver=
+URL=https://www.anytimemailbox.com/
+ExcelPath=
+Browser=Chrome
+ProjectName=AnytimeMailbox
